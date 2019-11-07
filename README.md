@@ -21,3 +21,5 @@ https://epsilons.ru/
 Website with my portfolio.}
 
 Кey skills: HTML5, CSS3 (Bootstrap), Javascript (jQuery), PHP, GoogleFonts.
+
+https://drive.google.com/open?id=1_DOH28rVHQ6nVF4w2A3CCh63qBKArbNw
