@@ -1,5 +1,0 @@
-RewriteEngine On
-
-RewriteCond %{HTTP_HOST} ^услугидом.рф
-
-RewriteRule (.*) http://www.услугидом.рф/$1 [R=301,L]
